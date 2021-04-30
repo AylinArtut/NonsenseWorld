@@ -4,7 +4,18 @@ Ein Spiel, erstellt mit C# + Unity + viel Langeweile während der Freizeit in de
 
 Ich habe das Repository mit dem Quellcode auf „private“ gestellt, weil ich mir überlegt habe das Spiel in einigen Monaten oder Jahren (je nachdem, wie lange es dauert) kommerziell zu nutzen. Dafür werde ich auch mehr Funktionalitäten einbauen und auch die Grafiken verbessern etc.
 
-Ein anderes, neues, nicht-kommerzielles Projekt: https://github.com/AylinArtut/UselessWebsite :smile: :stuck_out_tongue_winking_eye:
+-------------------------------------------------------------------------------------------------------------------
+
+**Aktueller Stand:**
+
++ Ich versuche derzeit ein nicht existentes Spielkonzept zu entwerfen, indem ich mich wiederum an mehreren existenten Spielkonzepten orientiere. 
+Die bisherigen Spielfunktionalitäten werden dabei nicht verloren gehen.
+
++ Und da dies das Projekt ist womit ich erstmalig programmieren lernte, sind mir diese Pixelchen beim ständigen Zeit mit ihnen verbringen so sehr ans Herz gewachsen, dass ich beschlossen habe Pixelhäufchen, sowie seine Freunde auch über den Release hinaus zu behalten. :heart:
+
++ Spieleentwicklung mit Herz. :satisfied: :yum:
+
+-------------------------------------------------------------------------------------------------------------------
 
 Bislang habe ich den folgenden Stand erreicht:
 
