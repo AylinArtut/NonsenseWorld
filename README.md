@@ -6,7 +6,7 @@ Ich habe das Repository mit dem Quellcode auf „private“ gestellt, weil ich m
 
 -------------------------------------------------------------------------------------------------------------------
 
-**Eigene Versuche zu pixeln:** Just tried ... :shit:
+**Eigene Versuche zu pixeln:** Just tried ... :shit: Ich bleibe lieber doch bei legalen Grafiken richtiger Künstler. :blush:
 ![alt text](https://s8.directupload.net/images/210501/2bi7gds5.jpg)
 
 **Aktueller Stand:**
