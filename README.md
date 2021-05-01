@@ -6,6 +6,9 @@ Ich habe das Repository mit dem Quellcode auf „private“ gestellt, weil ich m
 
 -------------------------------------------------------------------------------------------------------------------
 
+**Eigene Versuche zu pixeln:** Just tried ... :shit:
+![alt text](https://s8.directupload.net/images/210501/2bi7gds5.jpg)
+
 **Aktueller Stand:**
 
 + Ich versuche derzeit ein nicht existentes Spielkonzept zu entwerfen, indem ich mich wiederum an mehreren existenten Spielkonzepten orientiere. 
