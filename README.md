@@ -14,6 +14,13 @@ Ich habe das Repository mit dem Quellcode auf „private“ gestellt, weil ich m
 + Ich versuche derzeit ein nicht existentes Spielkonzept zu entwerfen, indem ich mich wiederum an mehreren existenten Spielkonzepten orientiere. 
 Die bisherigen Spielfunktionalitäten werden dabei nicht verloren gehen.
 
+( IDEE IST FERTIG, VERSUCHE SPÄTESTENS AB NÄCHSTER WOCHE WEITER AM SPIEL ZU ARBEITEN! :smiley: 
+  
+  Es wird ein sehr merkwürdiges Farmspiel, was es bislang in der Konstellation nicht gab. 
+  
+  Je nach Arbeits-Power könnte es in 1 oder 1,5 Jahren fertig werden. :eyes:
+)
+
 + Und da dies das Projekt ist womit ich erstmalig programmieren lernte, sind mir diese Pixelchen beim ständigen Zeit mit ihnen verbringen so sehr ans Herz gewachsen, dass ich beschlossen habe Pixelhäufchen, sowie seine Freunde auch über den Release hinaus zu behalten. :heart:
 
 + Spieleentwicklung mit Herz. :satisfied: :yum:
