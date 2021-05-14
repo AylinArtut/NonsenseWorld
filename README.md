@@ -6,24 +6,11 @@ Ich habe das Repository mit dem Quellcode auf „private“ gestellt, weil ich m
 
 -------------------------------------------------------------------------------------------------------------------
 
-**Eigene Versuche zu pixeln:** Just tried ... :shit: Ich bleibe lieber doch bei legalen Grafiken richtiger Künstler. :blush:
-![alt text](https://s8.directupload.net/images/210501/2bi7gds5.jpg)
-
 **Aktueller Stand:**
 
-+ Ich versuche derzeit ein nicht existentes Spielkonzept zu entwerfen, indem ich mich wiederum an mehreren existenten Spielkonzepten orientiere. 
-Die bisherigen Spielfunktionalitäten werden dabei nicht verloren gehen.
+![alt text](https://www.bilder-upload.eu/upload/715535-1621028258.jpg)
 
-( IDEE IST FERTIG, VERSUCHE SPÄTESTENS AB NÄCHSTER WOCHE WEITER AM SPIEL ZU ARBEITEN! :smiley: 
-  
-  Es wird ein sehr merkwürdiges Farmspiel, was es bislang in der Konstellation nicht gab. 
-  
-  Je nach Arbeits-Power könnte es in 1 oder 1,5 Jahren fertig werden. :eyes:
-)
-
-+ Und da dies das Projekt ist womit ich erstmalig programmieren lernte, sind mir diese Pixelchen beim ständigen Zeit mit ihnen verbringen so sehr ans Herz gewachsen, dass ich beschlossen habe Pixelhäufchen, sowie seine Freunde auch über den Release hinaus zu behalten. :heart:
-
-+ Spieleentwicklung mit Herz. :satisfied: :yum:
+(Beschreibung folgt)
 
 -------------------------------------------------------------------------------------------------------------------
 
@@ -38,8 +25,6 @@ Bislang habe ich den folgenden Stand erreicht:
 ![alt text](https://s12.directupload.net/images/210227/qwpu9jk9.jpg) 
 
 ![alt text](https://s16.directupload.net/images/210303/kb6mx37s.jpg) 
-
-![alt text](https://s8.directupload.net/images/210228/evb4gysh.jpg) 
 
 ![alt text](https://s12.directupload.net/images/201030/jer9hgtd.jpg) 
 
