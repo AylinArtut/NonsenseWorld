@@ -1,8 +1,10 @@
 # NonsenseWorld
 
-Ein Spiel, erstellt mit C# + Unity + viel Langeweile während der Freizeit in der Pandemie.
+Ein Spiel, erstellt mit C#, Unity & viel Langerweile während der Freizeit in der Pandemie. Ich habe das Projekt "Nonsense" World genannt, weil es in SS 2020 ursprünglich als Programmierübung diente.
 
-Ich habe das Repository mit dem Quellcode auf „private“ gestellt, weil ich mir überlegt habe das Spiel in einigen Monaten oder Jahren (je nachdem, wie lange es dauert) kommerziell zu nutzen. Dafür werde ich auch mehr Funktionalitäten einbauen und auch die Grafiken verbessern etc.
+Das Repository mit dem Quellcode ist seit ca. März 2021 nicht mehr öffentlich, weil ich neben meinem Studium mein Glück als Indie-Spieleentwicklerin versuchen möchte.
+
+Da es ein langer Prozess ist, möchte ich in diesem Repository über meinen Stand berichten und Screenshots posten. Je nach Arbeitsenergie könnte das Spiel in ca. 1 bis 1,5 Jahren fertig sein.
 
 -------------------------------------------------------------------------------------------------------------------
 
