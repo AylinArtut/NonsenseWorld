@@ -8,17 +8,19 @@ Da es ein langer Prozess ist, möchte ich in diesem Repository über meinen Stan
 
 -------------------------------------------------------------------------------------------------------------------
 
-**Aktueller Stand:**
+**Upcoming Feature Previews:**
 
-![alt text](https://www.bilder-upload.eu/upload/715535-1621028258.jpg)
-
-(Beschreibung folgt)
+![alt text](https://www.bilder-upload.eu/upload/50f386-1621090448.jpg)
 
 -------------------------------------------------------------------------------------------------------------------
 
-Bislang habe ich den folgenden Stand erreicht:
+**New Screenshots:**
 
-(Nähere Beschreibung folgt noch)
+(In Bearbeitung)
+
+-------------------------------------------------------------------------------------------------------------------
+
+**Deprecated Screenshots:**
 
 ![alt text](https://s12.directupload.net/images/210227/8nyh5p39.jpg)
 
